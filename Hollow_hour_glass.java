@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Hollow_hour_glass {
     public static void main(String[] args) {
