@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Number_Changing_Pyramid {
     public static void main(String[] args) {
@@ -13,5 +12,4 @@ public class Number_Changing_Pyramid {
             }
             System.out.println();
         }
-    }
-}
+}}
