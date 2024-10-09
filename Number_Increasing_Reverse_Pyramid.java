@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Number_Increasing_Reverse_Pyramid {
     public static void main(String[] args) {
