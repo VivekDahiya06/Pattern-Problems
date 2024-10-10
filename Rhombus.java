@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Rhombus {
     public static void main(String[] args) {
