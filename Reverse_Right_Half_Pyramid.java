@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Reverse_Right_Half_Pyramid {
     public static void main(String[] args) {
