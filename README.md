@@ -14,3 +14,7 @@ Example patterns include:
 
 # Language used 🔖
 ➡️Java
+
+
+# Patterns Solved ☑️
+![image](https://github.com/user-attachments/assets/cdaadfbc-9765-4884-88b1-6f0a2451c7f0)
