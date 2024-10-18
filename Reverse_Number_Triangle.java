@@ -1,4 +1,3 @@
-package Patterns;
 import java.util.Scanner;
 public class Reverse_Number_Triangle {
     public static void main(String[] args) {
