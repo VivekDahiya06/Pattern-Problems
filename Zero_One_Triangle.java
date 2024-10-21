@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Zero_One_Triangle {
     public static void main(String[] args) {
         Scanner r= new Scanner(System.in);
-        System.out.println("Enter the no. of times to run the loop : ");
+        System.out.print("Enter the no. of times to run the loop : ");
         int n = r.nextInt();
         // 1 is printed whenever both i & j are even or both i & j are odd
         // 0 is printed for all the remaining places
